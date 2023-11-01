@@ -1,5 +1,4 @@
 .footer {
-
     width: 100vw;
     height: 4rem;
     background: rgb(122, 75, 115);
@@ -8,4 +7,5 @@
     justify-content: center;
     font-weight: 300;
     font-size: small;
+
 }

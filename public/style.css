@@ -9,7 +9,7 @@
 
 body{
     background: rgb(65, 18, 58);
-    color: white;
+    color: rgb(254, 255, 254);
     overflow: hidden;
     overflow-y: scroll;
 }

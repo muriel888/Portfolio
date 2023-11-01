@@ -36,7 +36,7 @@ const Contact = () => {
                   
                 <a href={mycv} download><img src={cv} alt="cv" className="link" /> </a>
                 <a href=' https://www.linkedin.com/in/muriel-tiendrebeogo-89aa18287/'><img src={linkedin} alt="Linkedin" className="link" /> </a>
-                <a href='https://github.com/'> <img src={git} alt="Github" className="link" /></a>
+                <a href='https://github.com/muriel888'> <img src={git} alt="Github" className="link" /></a>
                     
                 
             
@@ -56,29 +56,9 @@ const Contact = () => {
 
 
 
-
         </div>
-        
-
-
-
-
+   
     </section>
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
   )
 }
 
