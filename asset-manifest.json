@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.cc1279e1.css",
+    "main.js": "/Portfolio/static/js/main.37fb8a63.js",
+    "static/media/Muriel-TIENDREBEOGO.pdf": "/Portfolio/static/media/Muriel-TIENDREBEOGO.47d388330bb4fd655676.pdf",
+    "static/media/cards.png": "/Portfolio/static/media/cards.5a573c656d897ca945c2.png",
+    "static/media/game.png": "/Portfolio/static/media/game.f1f153c1815157cc19f5.png",
+    "static/media/cpro.png": "/Portfolio/static/media/cpro.22ccbbce3766b7d66d8a.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.99597ef4aaabb844c35a.png",
+    "static/media/github.png": "/Portfolio/static/media/github.046f4737d98f1d560668.png",
+    "static/media/cpp.png": "/Portfolio/static/media/cpp.cccb918f85acfe8bcf94.png",
+    "static/media/react.png": "/Portfolio/static/media/react.a735267992861f02c8f2.png",
+    "index.html": "/Portfolio/index.html",
+    "main.cc1279e1.css.map": "/Portfolio/static/css/main.cc1279e1.css.map",
+    "main.37fb8a63.js.map": "/Portfolio/static/js/main.37fb8a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1279e1.css",
+    "static/js/main.37fb8a63.js"
+  ]
+}
