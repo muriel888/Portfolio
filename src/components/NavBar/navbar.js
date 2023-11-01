@@ -27,7 +27,7 @@ const Navbar = () => {
         <Link activeClass='active' to='skills' spy={true} smooth={true} offset={-50} duration={500}className="ListItem" onClick={()=>setShowMenu(false)}>About</Link>
         <Link activeClass='active' to='works' spy={true} smooth={true} offset={-50} duration={500}className="ListItem" onClick={()=>setShowMenu(false)}>Skills</Link>
         <Link activeClass='active' to='projects' spy={true} smooth={true} offset={-50} duration={500}className="ListItem" onClick={()=>setShowMenu(false)}>Projects</Link>
-        <Link activeClass='active' to='contacts' spy={true} smooth={true} offset={-50} duration={500}className="ListItem" onClick={()=>setShowMenu(false)}>Contacts</Link>
+        <Link activeClass='active' to='contact' spy={true} smooth={true} offset={-50} duration={500}className="ListItem" onClick={()=>setShowMenu(false)}>Contact</Link>
     </div>
 
 

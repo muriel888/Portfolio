@@ -17,6 +17,7 @@ import vs from '../../pics/vs.png';
 import bitbucket from '../../pics/bitbucket.png';
 import github from '../../pics/github.png';
 import gitbash from '../../pics/gitbash.png';
+import mycv from '../../pics/Muriel-TIENDREBEOGO.pdf';
 
 
 function Works() {
@@ -45,7 +46,7 @@ function Works() {
         <img src={ gitbash } alt="" className="worksImg"/>
        </div>
 
-        <button className="workBtn">Voir Plus</button>
+       <a href={mycv} download><button className="workBtn">Voir Plus</button></a>
 
    </section>
   )

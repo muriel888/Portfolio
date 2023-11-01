@@ -12,13 +12,15 @@ const Projects = () => {
         <h3 className="projectsTitle">Mes Projects</h3>
         <div className="projectsImgs">
             <img src={ weather } alt="" className="projectsImg"/>
-            <button className="workBtn">Voir Plus</button>
+            <a href='https://github.com/muriel888'><button className="workBtn">Voir Plus</button></a>
             <img src={ cards } alt="" className="projectsImg"/>
-            <button className="workBtn">Voir Plus</button>
+            <a href='https://github.com/muriel888'><button className="workBtn">Voir Plus</button></a>
             <img src={ game } alt="" className="projectsImg"/>
-            <button className="workBtn">Voir Plus</button>
+            <a href='https://github.com/muriel888'><button className="workBtn">Voir Plus</button></a>
             <img src={ cpro } alt="" className="projectsImg"/>
-            <button className="workBtn">Voir Plus</button>
+            <a href='https://github.com/muriel888'><button className="workBtn">Voir Plus</button></a>
+
+           
 
         </div>
     </section>
