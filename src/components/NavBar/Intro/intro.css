@@ -31,6 +31,8 @@
     opacity: 0;
     transform: translateY(100%);
     animation: reveal 1.5s forwards;
+    
+    
   }
   
   @keyframes reveal {
@@ -46,21 +48,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 .hello {
     font-size: 1.75rem;
     font-weight: 100;
+    animation-iteration-count: infinite;
 }
 
 .introName {
