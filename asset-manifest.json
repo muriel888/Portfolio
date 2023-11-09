@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.3177c70f.css",
-    "main.js": "/Portfolio/static/js/main.cc2a3401.js",
+    "main.js": "/Portfolio/static/js/main.875c37e7.js",
     "static/media/Muriel-TIENDREBEOGO.pdf": "/Portfolio/static/media/Muriel-TIENDREBEOGO.706026481e2a0659cfd5.pdf",
     "static/media/cards.png": "/Portfolio/static/media/cards.31ebb78b20ede1c8b518.png",
     "static/media/github.png": "/Portfolio/static/media/github.046f4737d98f1d560668.png",
@@ -9,10 +9,10 @@
     "static/media/react.png": "/Portfolio/static/media/react.a735267992861f02c8f2.png",
     "index.html": "/Portfolio/index.html",
     "main.3177c70f.css.map": "/Portfolio/static/css/main.3177c70f.css.map",
-    "main.cc2a3401.js.map": "/Portfolio/static/js/main.cc2a3401.js.map"
+    "main.875c37e7.js.map": "/Portfolio/static/js/main.875c37e7.js.map"
   },
   "entrypoints": [
     "static/css/main.3177c70f.css",
-    "static/js/main.cc2a3401.js"
+    "static/js/main.875c37e7.js"
   ]
 }
