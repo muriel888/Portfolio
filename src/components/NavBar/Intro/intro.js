@@ -11,7 +11,7 @@ const Intro = () => {
   <section id="intro">
     <div className="introContent">
         <span className="hello">Bonjour,</span>
-        <span className="introText">Je m'appelle <span className="introName">MURIEL TIENDREBEOGO</span> <br /> Développeuse Logiciel </span>
+        <span className="introText">Je m'appelle <span className="introName">MURIEL TIENDREBEOGO</span> <br /> Développeuse </span>
 
     </div>
    
